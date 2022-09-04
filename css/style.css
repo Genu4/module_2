@@ -91,25 +91,25 @@
 
         @media (min-width: 768px) and (max-width: 991px) {
 
-            .chicken,
-            .beef {
-                float: left;
-                width: 50%;
-            }
+    .chicken,
+    .beef {
+        float: left;
+        width: 50%;
+    }
 
-            .box-chicken,
-            .box-beef {
-                width: 95%;
-            }
+    .box-chicken,
+    .box-beef {
+        width: 95%;
+    }
 
-            .box-sushi {
-                width: 97.5%;
-            }
+    .box-sushi {
+        width: 97.5%;
+    }
 
-            .sushi {
-                float: left;
-            }
-        }
+    .sushi {
+        float: left;
+    }
+}
 
         @media (max-width: 767px) {
 
